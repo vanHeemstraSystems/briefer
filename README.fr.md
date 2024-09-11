@@ -1,8 +1,8 @@
 plus bref
 
-# Briefer
+# Bref
 
->
+> Briefer is the multiplayer notebook that lets you run SQL and Python, and turn notebooks into dashboards and data apps.
 
 Basé sur "Briefer" à<https://www.briefer.cloud/>
 
