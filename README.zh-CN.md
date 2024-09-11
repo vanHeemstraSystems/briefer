@@ -6,7 +6,7 @@
 
 基于“简报”<https://www.briefer.cloud/>
 
-基于“”位于
+Based on "" at 
 
 ## 100 - 简介
 
