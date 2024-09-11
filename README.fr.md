@@ -1,8 +1,12 @@
-nom du référentiel
+plus bref
 
-# Nom du référentiel
+# Bref
 
-Basé sur "ABC" à<https://www.abc.com/>
+>
+
+Basé sur "Briefer" à<https://www.briefer.cloud/>
+
+Basé sur "" à
 
 ## 100 - Introduction
 
