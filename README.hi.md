@@ -2,9 +2,9 @@
 
 # खनन
 
->
+> ब्रीफ़र मल्टीप्लेयर नोटबुक है जो आपको SQL और Python चलाने और नोटबुक को डैशबोर्ड और डेटा ऐप्स में बदलने की सुविधा देता है।
 
-Based on "Briefer" at <https://www.briefer.cloud/>
+पर "ब्रीफ़र" पर आधारित<https://www.briefer.cloud/>
 
 "" पर आधारित
 
@@ -14,12 +14,12 @@ Based on "Briefer" at <https://www.briefer.cloud/>
 
 ## 200 - आवश्यकताएँ
 
-देखना[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
