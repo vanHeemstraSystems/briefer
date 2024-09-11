@@ -1,8 +1,12 @@
-repository-name
+खनन
 
-# भंडार का नाम
+# खनन
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+>
+
+पर "ब्रीफ़र" पर आधारित<https://www.briefer.cloud/>
+
+"" पर आधारित
 
 ## 100 - परिचय
 
@@ -10,7 +14,7 @@ repository-name
 
 ## 200 - आवश्यकताएँ
 
-देखना[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
