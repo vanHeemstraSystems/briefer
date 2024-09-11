@@ -4,7 +4,7 @@
 
 >
 
-पर "ब्रीफ़र" पर आधारित<https://www.briefer.cloud/>
+Based on "Briefer" at <https://www.briefer.cloud/>
 
 "" पर आधारित
 
@@ -14,7 +14,7 @@
 
 ## 200 - आवश्यकताएँ
 
-See [README.md](./200/README.md)
+देखना[README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
