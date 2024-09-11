@@ -3,9 +3,7 @@ briefer
 
 > Briefer is the multiplayer notebook that lets you run SQL and Python, and turn notebooks into dashboards and data apps.
 
-Based on "Briefer" at https://www.briefer.cloud/
-
-Based on "" at 
+Based on "Briefer" at https://www.briefer.cloud 
 
 ## 100 - Introduction
 
